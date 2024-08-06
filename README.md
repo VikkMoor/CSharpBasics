@@ -1,7 +1,7 @@
 # C# Basics
 
 ## 3:
-### Lecture3:
+### Lecture:
 * **one**: example with string Method + multiplication table;
 
 * **2nd**: work with text, using "string Replace";
@@ -16,7 +16,7 @@
 
 
 ## 5:
-### Seminar5:
+### Seminar:
 * **prepod**: example with string to numbers!!!
 
 * **elegant_palindrome**: just like this way for this task ; )
@@ -39,9 +39,9 @@
 
 
 ## 6:
-### Lecture 6:
+### Lecture:
 * **one**: converting text from string "(1,2) (2,3) (4,5) (6,7)" to int array of such coordinates with lil example of actions with them;
-### Seminar 6:
+### Seminar:
 * **one**: reverse random array (method);
 
 * **2nd**: does a triangle exist with such sides;
@@ -69,7 +69,7 @@
 
 
 ## 8:
-### Seminar 8:
+### Seminar:
 * **one**: change first & last row in matrix;
 
 * **2nd**: rows to columns and versa;
