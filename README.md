@@ -1,13 +1,13 @@
 # C# Basics
 
 ## 3:
-### Lecture:
+### Lecture[(here)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/lecture%203):
 * **one**: example with string Method + multiplication table;
 
 * **2nd**: work with text, using "string Replace";
 
 * **3rd & 4th**: sorting array a lil;
-### Homework [here](https://github.com/VikkMoor/CSharpBasics/tree/main/3/homework):
+### Homework [(here)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/homework):
 * **one**: input 5-digit number, output - palindrome or not;
 
 * **2nd**: input - 3D coordinates a, b; output - distance between;
