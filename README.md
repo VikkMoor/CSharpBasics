@@ -31,11 +31,7 @@
 
 * **5th**: product of pairs of numbers in random array (0 * last, 1 * (last-1), 2 * (last-2)..etc);
 ### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/5/homework):
-* **one**: input - array (99 < i < 1000), output - how many even numbers;
- 
-* **2nd**: input - random array, output - sum of numbers on odd positions;
-
-* **3rd**: input - array, output - dif(max-min) (!METHOD!);
+* **one**: input - array, output - dif(max-min) (!METHOD!);
 
 
 ## 6:
@@ -44,17 +40,15 @@
 ### Seminar [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/6/seminar%206):
 * **one**: reverse random array (method);
 
-* **2nd**: does a triangle exist with such sides;
+* **2nd**: random decimal number to binary;
 
-* **3rd**: random decimal number to binary;
+* **3rd**: Fibonacci numbers without recursion;
 
-* **4th**: Fibonacci numbers without recursion;
-
-* **5th**: string of entered array numbers to copyarray;
+* **4th**: string of entered array numbers to copyarray;
 
 
 ## 7:
-### Homework:
+### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/7):
 * **one**: matrix 3x4 with random real numbers. For example:
 
 0,5 7 -2 -0,2
@@ -69,7 +63,7 @@
 
 
 ## 8:
-### Seminar:
+### Seminar [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/8/seminar%208):
 * **one**: change first & last row in matrix;
 
 * **2nd**: rows to columns and versa;
@@ -79,7 +73,7 @@
 * **4th**: delete row and column with min number in matrix;
 
 * **5th**: output N rows of Pascal's triangle;
-### Homework:
+### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/8/homework):
 * **one**: sort each row in matrix from max to min;
 
 * **2nd**: output - № of row with min sum of it elements;
@@ -89,7 +83,7 @@
 
 ## 9 :
 ***Recursion! ; )***
-### Homework:
+### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/final%20hw%209):
 * **one**: input N; output - N...1;
 
 * **2nd**: input M, N; output - sum (M....N);
