@@ -1,13 +1,13 @@
 # C# Basics
 
 ## 3:
-### Lecture[(here)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/lecture%203):
+### Lecture [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/lecture%203):
 * **one**: example with string Method + multiplication table;
 
 * **2nd**: work with text, using "string Replace";
 
 * **3rd & 4th**: sorting array a lil;
-### Homework [(here)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/homework):
+### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/3/homework):
 * **one**: input 5-digit number, output - palindrome or not;
 
 * **2nd**: input - 3D coordinates a, b; output - distance between;
@@ -16,7 +16,7 @@
 
 
 ## 5:
-### Seminar:
+### Seminar [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/5/seminar):
 * **prepod**: example with string to numbers!!!
 
 * **elegant_palindrome**: just like this way for this task ; )
@@ -30,7 +30,7 @@
 * **4th**: 123 elements array, output - how many numbers from [10;99];
 
 * **5th**: product of pairs of numbers in random array (0 * last, 1 * (last-1), 2 * (last-2)..etc);
-### Homework:
+### Homework [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/5/homework):
 * **one**: input - array (99 < i < 1000), output - how many even numbers;
  
 * **2nd**: input - random array, output - sum of numbers on odd positions;
@@ -39,9 +39,9 @@
 
 
 ## 6:
-### Lecture:
+### Lecture [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/6/lecture%206):
 * **one**: converting text from string "(1,2) (2,3) (4,5) (6,7)" to int array of such coordinates with lil example of actions with them;
-### Seminar:
+### Seminar [(here!)](https://github.com/VikkMoor/CSharpBasics/tree/main/6/seminar%206):
 * **one**: reverse random array (method);
 
 * **2nd**: does a triangle exist with such sides;
